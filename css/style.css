@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(77, 109, 109);
+    color:white;
+    text-align: center;
+}
+h1{
+    color:black;
+    background-color: blanchedalmond;
+}
+li{
+    list-style: none;
+}
+#image-div{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+#image{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
